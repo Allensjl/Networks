@@ -16,9 +16,9 @@ DEFAULT_OPSODE = {
 
     'reset'         :   0x00,
 
-    # 发送图片
+    # send a pic
     'sendpic'       :   0x50,
-    # 拉取图片
+    # get a pic
     'getpic'        :   0x51,
     }
 
